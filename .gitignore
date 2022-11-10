@@ -110,3 +110,6 @@ Content/__ExternalActors__/*
 #!Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset
 Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset
 Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset
+Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset
+Content/FirstPerson/Blueprints/BP_Rifle.uasset
+Content/FirstPerson/Maps/FirstPersonMap.umap
